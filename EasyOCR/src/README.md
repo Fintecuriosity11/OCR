@@ -1,1 +1,1 @@
-#EasyOCR 관련 
+# EasyOCR 관련 
